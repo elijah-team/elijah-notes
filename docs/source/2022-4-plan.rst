@@ -4,18 +4,25 @@
 *Apr 30 16:55*
 
 If you were playing attention, you would have noticed that none of this happened.
-Well, that's the way things are somtimes.
+Well, that's the way things are sometimes.
 
 Anyway...
 
 - Testability
+
+ 
   * TestNG
+  
   * ScalaTest
+  
   * Cucumber ??
+
   * Clojure whatever
 
 - HTML Generation
+
   * Logs
+
   * Hypertext
     - Generated <-> Source (with a reason of course)
       a. Side by side
@@ -24,7 +31,11 @@ Anyway...
         2. Whisker Browser
 
 - Integration
+
   * Work towards compilation
+
     - Ninja
+
     - Meson
+
     - CMake too!

@@ -15,8 +15,11 @@ Architecture
   * Collaborating
 
 - Post Processing of "AST"
+
   * Is the AST a Java record?
+
   * Is the AST immutable
+
   * These questions might be a job for Kotlin, Scala, or Clojure...
 
 Principles

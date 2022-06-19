@@ -20,5 +20,9 @@ Contents
 
 .. toctree::
 
+   2022-4-plan
+   repo-layout
+   architecture
+   impl-langs
    usage
    api

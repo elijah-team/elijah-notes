@@ -1,0 +1,34 @@
+2022-10-plan
+============
+
+*Oct 01 00:00*
+
+Get back to something that works and continue from there.
+
+- Testability
+
+  * Don't be afraid of breaking the build
+
+    1. It's broke anyway, so what the heck!
+
+  * Find a testing framework
+
+    1. JUnit and Mockito/Easymock work well enough, but I feel like ther's more to life...
+    2. The point, though, is to know when "it works"
+
+- HTML Generation
+
+  * What is the difference between a web server and Glamorous Toolkit?
+
+    1. AJAX. Yeah, seen it coming.
+    2. I could not figure out GWT. Neither could anyone else.
+
+  * Side by side results
+
+    1. Let's see what we are getting/it is doing
+
+- Generate results
+
+  * Hopefully POC by Dec 1
+
+    1. Maybe I should figure out what the hell this entails...

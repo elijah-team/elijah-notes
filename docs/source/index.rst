@@ -2,27 +2,24 @@ Welcome to Elijah Implementation Notes!
 ========================================
 
 This website serves the purpose of collecting some of my ideas I have been considering 
-for the **Elijah** compiler.  Hope you enjoy!  Otherwise, the internet is big.
+for the **Elijah** compiler.  Hope you enjoy!  Otherwise, `the internet is big <https://go.com>`.
 
-*italic*
-
-`Fake Link <https://OpenSVN.csie.org/>`
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+`Navi <https://no.cx/>`
 
 .. note::
 
-   This project is under active development.
+   This project is under extremely slow development.
 
 Contents
 --------
 
 .. toctree::
 
-   2022-4-plan
-   repo-layout
+   2022-10-plan
    architecture
+   overall-goals
+
+   2022-4-plan
+   architecture-apr21
    impl-langs
-   usage
-   api
+   repo-layout-may04

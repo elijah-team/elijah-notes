@@ -1,9 +1,11 @@
-Template for the Read the Docs tutorial
+Elijah Fluffy Umbrella
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+* It bothers me slighly that this name is not unique. But what is?
 
-Read the tutorial here:
+This is the source code for the read the docs site at `<https://elijah-lang-notes.readthedocs.io/en/latest/>`.
+It is for the vaporware/experimental and never finished "compiler" project `Elijah <https://github.com/elijah-team/fluffy-umbrella/>`. 
 
-https://docs.readthedocs.io/en/stable/tutorial/
+This site helped me alot more than the read the docs tutorial:
+
+https://github.com/kdave/btrfs-progs/blob/devel/Documentation/index.rst

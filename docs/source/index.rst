@@ -14,10 +14,16 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 1
+   :caption: 2022-10 plan
+   
    2022-10-plan
    architecture
    overall-goals
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 2022-4 plan
 
    2022-4-plan
    architecture-apr21

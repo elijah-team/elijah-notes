@@ -15,6 +15,22 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: Actual Implementation Notes
+   
+   Overview
+   Guides
+   Packages
+   My-Dependencies
+   External-Dependencies
+   My-Build-Mehodology
+   Programming-Experience
+   Stolen-Carbon-Docs
+   Stolen-Hare-Docs
+   Obligatory-Cat-Pics
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: 2022-10 plan
    
    2022-10-plan

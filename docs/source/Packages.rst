@@ -1,70 +1,98 @@
 Packages
 =========
 
-### ci
+ci
+###
 
-### comp
+comp
+#####
 
-### comp/functionality
+comp/functionality
+###################
 
-### comp/functionality/f202
+comp/functionality/f202
+########################
 
-### comp/internal
+comp/internal
+##############
 
-### contexts
+contexts
+#########
 
-### diagnostic
+diagnostic
+###########
 
-### entrypoints
+entrypoints
+############
 
-### gen
+gen
+####
 
-### lang
+lang
+#####
 
-### lang/builder
+lang/builder
+#############
 
-### lang/imports
+lang/imports
+#############
 
-### lang2
+lang2
+######
 
-### nextgen
+nextgen
+########
 
-### nextgen/inputtree
+nextgen/inputtree
+##################
 
-### nextgen/outputstatement
+nextgen/outputstatement
+########################
 
-### nextgen/outputtree
+nextgen/outputtree
+###################
 
-### stages
+stages
+#######
 
-### stages/deduce
+stages/deduce
+##############
 
-### stages/deduce/declarations
+stages/deduce/declarations
+###########################
 
-### stages/deduce/fluffy
+stages/deduce/fluffy
+#####################
 
-### stages/deduce/fluffy/i
+This package holds "Fluffy". subpackages are `i` for interfaces and `impl` for implementations.
 
-### stages/deduce/fluffy/impl
+stages/gen_c
+#############
 
-### stages/gen_c
+stages/gen_fn
+##############
 
-### stages/gen_fn
+stages/gen_generic
+###################
 
-### stages/gen_fn/a
+stages/generate
+################
 
-### stages/gen_generic
+stages/instructions
+####################
 
-### stages/generate
+stages/logging
+###############
 
-### stages/instructions
+stages/translate
+#################
 
-### stages/logging
+testing
+########
 
-### stages/translate
+util
+#####
 
-### testing
+work
+#####
 
-### util
-
-### work

@@ -4,7 +4,7 @@ Welcome to Elijah Implementation Notes!
 This website serves the purpose of collecting some of my ideas I have been considering 
 for the **Elijah** compiler.  Hope you enjoy!  Otherwise, `the internet is big <https://go.com>`__.
 
-`Navi <https://no.cx/>__`
+`Navi <https://no.cx/>`__
 
 .. note::
 

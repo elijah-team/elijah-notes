@@ -39,4 +39,3 @@ Stages/Phases
 * Deduce
 * Generate outputs
 * Fin (`Conquer World! <https://discourse.nixos.org/t/carbon-lang-an-opportunity-for-the-nix-codebase/20536/3>`)
-

@@ -31,6 +31,13 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: 2022-12 plan
+   
+   2022-12-plan
+   2023-01-aar
+
+.. toctree::
+   :maxdepth: 1
    :caption: 2022-10 plan
    
    2022-10-plan

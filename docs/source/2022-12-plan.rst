@@ -1,0 +1,43 @@
+2022-12 (December 2022) Plan
+=============================
+
+*Dec 29 1903*
+
+This is the plan I came up with for December in November, in and out of consciousness.
+Things don't always go as planned, even when you plan them...
+
+- Testability
+
+ * EG_Statement
+   
+   1. Don't be afraid of breaking the build.
+
+     See `Not wasting time with version control by Cal Paterson <https://calpaterson.com/wasting-time.html>`__
+
+     I like to make my commits in a way where none actually cause the compiler to throw an error, and each one 
+     theoretically can be reordered or, in the case of microcommits, they are part of a series, and replaying 
+     that series get to a "goal".
+
+     The goal of the goal (`goals everywhere <https://medium.com/codex/5-harsh-truths-from-linus-torvalds-406ab20cea02>`__)
+     is that I don't even look at git until I get a clean build (usually).
+
+ * IDeduceElement3 (as you will)
+ * CReference.for...
+
+ * Find a testing framework
+
+   It was advised by magic fairies not to worry about this.
+
+   I say if you cant get it done with JUnit and Cucmber, you're doing something wrong.
+
+   Then again, is it Scalatest? has a really nice syntax. One of them, I'm not sure.
+
+- HTML Generation
+
+ * Lay the foundation for this, but don't try to implement yet
+
+- Generate results
+
+ * Hopefully POC by Jan 15
+   
+   1. I got thrown off schedule by about 45 days, so extend "deadline" by about 45 days

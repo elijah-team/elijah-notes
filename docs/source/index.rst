@@ -31,6 +31,13 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: 2023-05 plan
+   
+   2023-05-plan
+   2023-05-architecture
+
+.. toctree::
+   :maxdepth: 1
    :caption: 2022-12 plan
    
    2022-12-plan

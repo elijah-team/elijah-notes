@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Elijah Lang Notes'
-copyright = '2022, tripleo'
+copyright = '2022-23, tripleo'
 author = 'tripleo'
 
 release = '0.1'

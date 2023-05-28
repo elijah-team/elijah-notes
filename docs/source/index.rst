@@ -28,7 +28,6 @@ Contents
    Stolen-Hare-Docs
    Obligatory-Cat-Pics
 
-
 .. toctree::
    :maxdepth: 1
    :caption: 2023-05 plan

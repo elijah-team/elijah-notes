@@ -14,7 +14,7 @@ This is based on findings and work since January.
    (re)introduced.
 
    2. The testing aspect of this has to come later, as there is not sufficient
-   reach present now.]
+   support for creating trees now.
 
 - HTML Generation
 

@@ -1,0 +1,32 @@
+2023-08 (August 2023) Plan
+===========================
+
+*May 27 1306*
+
+This is based on findings and work since January.
+
+- Testability
+
+ * EG_Statement
+   
+   1. There is substantial work supporting this.  Eventually this pattern will 
+   prevail over the whole project and integration with `Buffer`s will be 
+   (re)introduced.
+
+   2. The testing aspect of this has to come later, as there is not sufficient
+   support for creating trees now.
+
+- HTML Generation
+
+ * Lay the foundation for this, but don't try to implement yet
+
+   1. `UT_Controller`, etc was the start of this line, but was not continued 
+   due to branch hopping.
+
+- Generate results
+
+ * Self imposed deadline by Aug 1, 2023
+   
+   1. All examples should generate working and correct C and (Meson) makefiles.
+   
+   2. Are We Fast Yet should be included.

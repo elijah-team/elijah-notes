@@ -8,7 +8,6 @@ There was some distraction from random NPEs and things like that, which showed u
 
 * Alot of dead code remoal, especially in Compilation, which seems like it needs to slim down a little more
 
-* Beginning to remove PipelineLogic, which is a step in the right direction to rmoeing Pipelines (and replacing then with Queries)
+* Beginning to remove PipelineLogic, which is a step in the right direction to removing Pipelines (and replacing then with Queries)
 
 * Add new test in while100
-

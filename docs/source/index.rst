@@ -35,7 +35,8 @@ Contents
    2023-08-plan
    2023-08-architecture
    repo-layout-aug30
-
+   2023-08-unnamed
+   
 .. toctree::
    :maxdepth: 1
    :caption: 2023-05 plan

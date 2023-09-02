@@ -50,7 +50,7 @@ Some unorganized notes
   * gen 
   * jsonb
 
-- CK_ : K stands from graph (don't ask)
+- CK_ : K stands for graph (don't ask)
 
 - spoon
 - mustache (honestly, I didn't see one ;)
@@ -104,7 +104,7 @@ Some unorganized notes
 ## typinf
 
 - re-translate from py 
-  * kotlin yeaah right
+  * kotlin yeah right
   * clj already has something
 
 ## ..

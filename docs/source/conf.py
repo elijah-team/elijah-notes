@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'Elijah Lang Notes'
-copyright = '2022-23, tripleo'
+copyright = '2022-24, tripleo'
 author = 'tripleo'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.1'
 
 # -- General configuration
 
@@ -31,6 +31,9 @@ templates_path = ['_templates']
 
 ##html_theme = 'sphinx_rtd_theme'
 ##html_theme = 'furo'
+##html_theme = 'insipid'
+html_theme = 'sphinx_typlog_theme'
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

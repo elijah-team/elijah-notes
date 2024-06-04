@@ -30,8 +30,8 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 ##html_theme = 'sphinx_rtd_theme'
-html_theme = 'furo'
-##html_theme = 'insipid'
+##html_theme = 'furo'
+html_theme = 'insipid'
 ##html_theme = 'sphinx_typlog_theme'
 
 

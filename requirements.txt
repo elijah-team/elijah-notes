@@ -1,4 +1,4 @@
 sphinx-rtd-theme
-furo
 insipid-sphinx-theme
 sphinx-typlog-theme
+furo

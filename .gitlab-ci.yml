@@ -3,6 +3,7 @@ test:
   stage: test
   script:
   - pip install -U sphinx
+  - pip install -r requirements.txt
   - mkdir -p public/doctree 
   - sphinx-build -b html docs/source public -d public/doctree -c docs/source
   rules:
@@ -12,6 +13,7 @@ pages:
   stage: deploy
   script:
   - pip install -U sphinx
+  - pip install -r requirements.txt
   - mkdir -p public/doctree 
   - sphinx-build -b html docs/source public -d public/doctree -c docs/source
   artifacts:
@@ -19,3 +21,4 @@ pages:
     - public
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    

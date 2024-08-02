@@ -2,4 +2,4 @@ Elijah Fluffy Umbrella
 =======================
 
 Rendered:
-https://elijah-team.gitlab.io/migrated-docs/elijah-notes
+https://elijah-team.github.io/elijah-notes

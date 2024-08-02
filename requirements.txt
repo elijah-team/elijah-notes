@@ -2,3 +2,4 @@ sphinx-rtd-theme
 sphinx-typlog-theme
 furo
 insipid-sphinx-theme
+py-gfm

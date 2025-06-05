@@ -60,7 +60,7 @@ Contents
    :maxdepth: 1
    :caption: 2022-4 plan
 
-   2022-4-plan
+   2022-04-plan
    2022-04-21-PLAN-architecture
    2022-04-21-PLAN-impl-langs
    2022-05-04-PLAN-repo-layout

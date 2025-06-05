@@ -54,7 +54,7 @@ Contents
    
    2022-10-plan
    architecture
-   overall-goals
+   2022-10-overall-goals
 
 .. toctree::
    :maxdepth: 1

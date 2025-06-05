@@ -28,7 +28,7 @@ Things don't always go as planned, even when you plan them...
 
    It was advised by magic fairies not to worry about this.
 
-   I say if you cant get it done with JUnit and Cucmber, you're doing something wrong.
+   I say if you cant get it done with JUnit and Cucumber, you're doing something wrong.
 
    Then again, is it Scalatest? has a really nice syntax. One of them, I'm not sure.
 

@@ -22,11 +22,8 @@ Contents
    Packages
    My-Dependencies
    External-Dependencies
-   My-Build-Mehodology
+   My-Build-Methodology
    Programming-Experience
-   Stolen-Carbon-Docs
-   Stolen-Hare-Docs
-   Obligatory-Cat-Pics
 
 .. toctree::
    :maxdepth: 1
@@ -34,7 +31,7 @@ Contents
    
    2023-08-plan
    2023-08-architecture
-   repo-layout-aug30
+   2023-08-30-repo-layout
    2023-08-unnamed
    
 .. toctree::
@@ -56,14 +53,14 @@ Contents
    :caption: 2022-10 plan
    
    2022-10-plan
-   architecture
-   overall-goals
+   2022-10-architecture
+   2022-10-overall-goals
 
 .. toctree::
    :maxdepth: 1
    :caption: 2022-4 plan
 
-   2022-4-plan
+   2022-04-plan
    2022-04-21-PLAN-architecture
    2022-04-21-PLAN-impl-langs
    2022-05-04-PLAN-repo-layout

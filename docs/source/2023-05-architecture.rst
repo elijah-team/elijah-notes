@@ -29,7 +29,7 @@
 
 5. Post Processing of "AST"
 
-  - A little bit of intefaces added/converted, but none done for "AST"
+  - A little bit of interfaces added/converted, but none done for "AST"
 
   - Source Model (`SM_`*) should come up later
 

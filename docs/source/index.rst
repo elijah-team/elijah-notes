@@ -26,7 +26,6 @@ Contents
    Programming-Experience
    Stolen-Carbon-Docs
    Stolen-Hare-Docs
-   Obligatory-Cat-Pics
 
 .. toctree::
    :maxdepth: 1

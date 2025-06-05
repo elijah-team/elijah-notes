@@ -24,8 +24,6 @@ Contents
    External-Dependencies
    My-Build-Methodology
    Programming-Experience
-   Stolen-Carbon-Docs
-   Stolen-Hare-Docs
 
 .. toctree::
    :maxdepth: 1

@@ -53,7 +53,7 @@ Contents
    :caption: 2022-10 plan
    
    2022-10-plan
-   architecture
+   2022-10-architecture
    2022-10-overall-goals
 
 .. toctree::

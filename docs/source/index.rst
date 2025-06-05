@@ -22,7 +22,7 @@ Contents
    Packages
    My-Dependencies
    External-Dependencies
-   My-Build-Mehodology
+   My-Build-Methodology
    Programming-Experience
    Stolen-Carbon-Docs
    Stolen-Hare-Docs

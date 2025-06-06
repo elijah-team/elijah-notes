@@ -50,7 +50,7 @@ Some unorganized notes
   * gen 
   * jsonb
 
-- CK_ : K stands for graph (We are calling it Kit now that things are starting to make more sense)
+- CK_ : K stands for graph (We are calling it "Kit" now that things are starting to make more sense)
 
 - spoon
 - mustache

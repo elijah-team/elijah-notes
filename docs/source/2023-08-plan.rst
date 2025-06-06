@@ -21,7 +21,7 @@ This is based on findings and work since January.
  * Lay the foundation for this, but don't try to implement yet
 
    1. `UT_Controller`, etc was the start of this line, but was not continued 
-   due to branch hopping.
+   due to lack of branch discipline.
 
 - Generate results
 

@@ -3,7 +3,7 @@
 
 Ok. It's January 16. And I finally (almost) met a goal.
 
-I transcribed the things I could find from November and did what I could to put them togerther.
+I transcribed the things I could find from November and did what I could to put them together.
 There was some distraction from random NPEs and things like that, which showed up when they weren't wanted.
 
 * A lot of dead code removal, especially in Compilation, which seems like it needs to slim down a little more

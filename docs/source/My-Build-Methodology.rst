@@ -1,6 +1,9 @@
 My Build Methodology
 =====================
 
-I'll get back to you when I figure out what the hell I was talking about
+The word automatic implies no additional effort on "your" part.
 
-Milestone: Discombobulate
+tldr: every time I have to login, or manually check the results
+(within reason) is a bad thing.
+
+Also learn that AI thing.

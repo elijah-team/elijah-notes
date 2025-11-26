@@ -8,7 +8,7 @@ for the **Elijah** compiler.  Hope you enjoy!  Otherwise, `the internet is big <
 
 .. note::
 
-   This project is under extremely slow development.
+   This project is under sluggish development.
 
 Contents
 --------

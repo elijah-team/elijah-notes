@@ -4,7 +4,7 @@
 *May 27 19:26*
 
 1. Remove Pipeline(s)
-  - Process starting with conversion of alot of things to Operations
+  - Process starting with conversion of a lot of things to Operations
   
   - Process continuing with the introduction of CompilerDriven
   

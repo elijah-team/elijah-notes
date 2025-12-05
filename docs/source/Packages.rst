@@ -42,9 +42,9 @@ entrypoints
 Contains `MainClassEntryPoint` and `ArbitraryFunctionEntryPoint`.  These represent the entry points into the program (as opposed to the compiler).
 
 `Entrypoint`s represent the "surface" of the code that is generated.  Beyond an entrypoint, there are no guarantees that the code will be usable.  
-This provides flexbility to the "Generator" implementations, allowing them to just "do what works".
+This provides flexibility to the "Generator" implementations, allowing them to just "do what works".
 
-Specifcially I don't know how this will work for C/C++ generation and garbage collectors...
+Specifically, I don't know how this will work for C/C++ generation and garbage collectors...
 
 gen
 ****

@@ -9,7 +9,7 @@ Architecture
 2. Make other things more explicit
   * More relevant stuff like core functionality
 
-3. Make managable chunks
+3. Make manageable chunks
 
 4. Pull code from net
   * Like Go (or that other thing...)

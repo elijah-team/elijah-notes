@@ -4,5 +4,5 @@ My Dependencies
 * Tripleo Buffers
 * Tripleo Range
 
-Neither of these projects is used to the fullest of their capability...
-
+* buffers should link to zed, scite, or thinlet, at least
+* range needs one of those ai things

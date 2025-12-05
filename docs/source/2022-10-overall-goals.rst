@@ -23,7 +23,7 @@ Overall Goals
 
 - sync between providers
   
-  * Annoyances. Fix latre. 
+  * Annoyances. Fix later.
 
 - stable, development and mainline
 

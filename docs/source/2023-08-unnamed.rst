@@ -18,7 +18,7 @@ Some unorganized notes
 
 - batoull EK\_
 
-- workmanager
+- WorkManager
 
 - ProgressSink
 

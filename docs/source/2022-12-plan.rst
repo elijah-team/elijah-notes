@@ -15,7 +15,7 @@ Things don't always go as planned, even when you plan them...
      See `Not wasting time with version control by Cal Paterson <https://calpaterson.com/wasting-time.html>`__
 
      I like to make my commits in a way where none actually cause the compiler to throw an error, and each one 
-     theoretically can be reordered or, in the case of microcommits, they are part of a series, and replaying 
+     theoretically can be reordered or, in the case of micro-commits, they are part of a series, and replaying
      that series get to a "goal".
 
      The goal of the goal (`goals everywhere <https://medium.com/codex/5-harsh-truths-from-linus-torvalds-406ab20cea02>`__)

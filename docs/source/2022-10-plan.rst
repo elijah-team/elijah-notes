@@ -13,7 +13,7 @@ Get back to something that works and continue from there.
 
   * Find a testing framework
 
-    1. JUnit and Mockito/Easymock work well enough, but I feel like ther's more to life...
+    1. JUnit and Mockito/Easymock work well enough, but I feel like there's more to life...
     2. The point, though, is to know when "it works"
 
 - HTML Generation

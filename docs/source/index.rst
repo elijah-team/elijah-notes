@@ -27,6 +27,15 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: 2025-12 plan
+
+   2025-12-plan
+   2025-12-04-PLAN-architecture
+   2025-12-04-PLAN-impl-langs
+   2025-12-04-PLAN-repo-layout
+
+.. toctree::
+   :maxdepth: 1
    :caption: 2023-08 plan
    
    2023-08-plan
@@ -62,5 +71,4 @@ Contents
 
    2022-04-plan
    2022-04-21-PLAN-architecture
-   2022-04-21-PLAN-impl-langs
    2022-05-04-PLAN-repo-layout

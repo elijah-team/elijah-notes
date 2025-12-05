@@ -25,3 +25,9 @@ Contents
    2025-12-04-PLAN-architecture
    2025-12-04-PLAN-impl-langs
    2025-12-04-PLAN-repo-layout
+
+.. toctree::
+   :maxdepth: 1
+   :caption: "Personal pages"
+
+   Landing-c24d5f234a20f3cd2f8a10dc6a83e8a0d859d35b
